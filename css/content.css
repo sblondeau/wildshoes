@@ -1,3 +1,7 @@
 body {
-	width:800px;
+	width:80%;
+	background-color:brown;
+	color:white;
+	font-size:16px;
+	margin:auto;
 }
